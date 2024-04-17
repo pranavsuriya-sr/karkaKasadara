@@ -1,5 +1,6 @@
 ## Karka Kasadara
-KaniTamil 2024 Hackathon Qualifiers
+KaniTamil 2024 Hackathon Qualifiers<br>
+<img src = "hackathon.png" height = 300px/>
 # About
 The Karka Kasadara homepage serves as a centralized and user-centric space for Tamil Literature enthusiasts, providing essential tools and resources for communication, collaboration, knowledge acquisition, and community engagement to foster learning within the Karka Kasadara community.
 
